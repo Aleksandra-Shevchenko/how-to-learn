@@ -4,5 +4,6 @@
   width: 160px;
   height: 160px;
   margin: 60px auto 43px;
-  object-fit: contain;
+  -o-object-fit: contain;
+     object-fit: contain;
 }

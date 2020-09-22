@@ -1,0 +1,9 @@
+.form__item_el_contact {
+  width: 48%;
+  min-height: 50px;
+  margin-right: 4%;
+}
+
+.form__item_el_contact:last-of-type {
+  margin: 0;
+}

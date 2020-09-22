@@ -5,7 +5,9 @@
   position: absolute;
   right: 48px;
   top: 50%;
-  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
   text-decoration: none;
   color: #000;
 }
