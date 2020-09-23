@@ -1,0 +1,15 @@
+@font-face {
+  src: url("./TTCommons-Regular.woff2") format("woff2"),
+       url("./TTCommons-Regular.woff") format("woff");
+  font-family: 'Commons';
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./TTCommons-DemiBold.woff2") format("woff2"),
+       url("./TTCommons-DemiBold.woff") format("woff");
+  font-family: 'Commons';
+  font-weight: bold;
+  font-display: swap;
+}

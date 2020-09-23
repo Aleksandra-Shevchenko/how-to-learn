@@ -1,7 +1,7 @@
 .form__item {
   display: inline-block;
   margin: 0;
-  padding: 0 8px 0;
+  padding: 8px;
   border: 0;
   font-family: inherit;
   font-size: 18px;
