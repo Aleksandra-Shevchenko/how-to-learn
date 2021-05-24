@@ -6,7 +6,7 @@
 -----
 
 # "Научиться учиться"
-<a href="https://aleksandra-shevchenko.github.io/how-to-learn/index.html" target="_blank" title="Ссылка на проект на Github-pages">**How to learn**</a> (ссылка для просмотра)
+[**How to learn**](https://aleksandra-shevchenko.github.io/how-to-learn/index.htm) (ссылка для просмотра)
 
 ## Описание проекта
 данный проект представляет собой статичный одностраничный сайт. В нем освещаются различные приемы и подходы для эффективного и успешного обучения в любой сфере.
